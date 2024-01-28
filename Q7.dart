@@ -3,6 +3,7 @@ void main() {
     'sun': 3000.0,
     'mon': 3000.0,
     'tue': 3234.0,
+    // "fri":4343.0
   };
 
   print(expenses);
